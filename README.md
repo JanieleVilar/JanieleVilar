@@ -35,6 +35,7 @@
 
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="90" height="90"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="70" height="70"/>
 </div>
 
 ### Contatos
