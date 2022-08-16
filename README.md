@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou estudando desenvolvimento de software na <a href="https://www.betrybe.com/" >Trybe</a>
 - 🌱 Estou aprendendo Typescript e SOLID
 - 💬 Sinta-se à vontade para entrar em contato
-- 📫 Como entrar em contato comigo: vilarjaniele@gmail.com
+- 📫 Como entrar em contato comigo: vilarjaniele@gmail.com ou (86) 98859-5295
 
 ##
 
