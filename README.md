@@ -2,10 +2,9 @@
 
 ### Sobre mim
 - 🔭 Atualmente estou estudando desenvolvimento de software na <a href="https://www.betrybe.com/" >Trybe</a>
-- 🌱 Estou aprendendo Docker e SQL
+- 🌱 Estou aprendendo Typescript e SOLID
 - 💬 Sinta-se à vontade para entrar em contato
 - 📫 Como entrar em contato comigo: vilarjaniele@gmail.com
-- 👀 Curiosidade: Amo ir à praia 🏖️
 
 ##
 
