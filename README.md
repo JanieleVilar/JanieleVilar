@@ -2,7 +2,7 @@
 
 ### Sobre mim
 - 🔭 Atualmente estou estudando desenvolvimento de software na <a href="https://www.betrybe.com/" >Trybe</a>
-- 🌱 Estou aprendendo Typescript e SOLID
+- 🌱 Estou aprendendo mongoDB
 - 💬 Sinta-se à vontade para entrar em contato
 - 📫 Como entrar em contato comigo: vilarjaniele@gmail.com ou (86) 98859-5295
 
@@ -28,12 +28,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
 </div>
 
 ### Estou aprendendo
 
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 ### Contatos
