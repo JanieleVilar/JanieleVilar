@@ -1,18 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&color=37407B&center=true&vCenter=true&lines=Ol%C3%A1!+Me+chamo+Janiele;Boas+vindas+ao+meu+perfil!!!)](https://git.io/typing-svg)
 
 ### Sobre mim
-- 🔭 Atualmente estou estudando desenvolvimento de software na <a href="https://www.betrybe.com/" >Trybe</a>
-- 🌱 Estou aprendendo mongoDB
-- 💬 Sinta-se à vontade para entrar em contato
+- 🔭 Após concluir o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/" >Trybe</a> estou buscando oportunidades para ingressar no mercado de trabalho
+- 🤓 Stacks que tenho interesse: Python, JavaScript, React, CSS, SASS
+- Amo aprender truques novos de ✨CSS✨
 - 📫 Como entrar em contato comigo: vilarjaniele@gmail.com ou (86) 98859-5295
 
 ##
 
 <div>
  <a href="https://github.com/JanieleVilar">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JanieleVilar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanieleVilar&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+ </a>
 </div>
 
 ### Ferramentas e Tecnologias
@@ -31,12 +30,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 </div>
 
-### Estou aprendendo
+### Tecnologias que estou focando em aprender
 
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 </div>
 
 ### Contatos
