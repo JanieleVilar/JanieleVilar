@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&color=37407B&center=true&vCenter=true&lines=Ol%C3%A1!+Me+chamo+Janiele;Boas+vindas+ao+meu+perfil!!!)](https://git.io/typing-svg)
 
 ### Sobre mim
-- 🔭 Após concluir o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/" >Trybe</a> estou buscando oportunidades para ingressar no mercado de trabalho
+- 🔭 Após concluir o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/" >Trybe</a> estou buscando oportunidades para ingressar no mercado de trabalho e estudando novas tecnologias
 - 🤓 Stacks que tenho interesse: Python, JavaScript, React, CSS, SASS
 - Amo aprender truques novos de ✨CSS✨
 - 📫 Como entrar em contato comigo: vilarjaniele@gmail.com ou (86) 98859-5295
