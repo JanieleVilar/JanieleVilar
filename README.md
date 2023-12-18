@@ -34,12 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="70"/>
 </div>
 
-### Tecnologia que estou focando em aprender
-
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
-</div>
-
 ### Contatos
 
 <div>
